@@ -17,7 +17,89 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="Style_Tile_template.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient3330">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3332" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3334" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3330"
+       id="linearGradient3336"
+       x1="150"
+       y1="50"
+       x2="150"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,6)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3330"
+       id="linearGradient3360"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,6)"
+       x1="150"
+       y1="50"
+       x2="150"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3330"
+       id="linearGradient3362"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,6)"
+       x1="150"
+       y1="50"
+       x2="150"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3330"
+       id="linearGradient3412"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,6)"
+       x1="150"
+       y1="50"
+       x2="150"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3330"
+       id="linearGradient3414"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,6)"
+       x1="150"
+       y1="50"
+       x2="150"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3330"
+       id="linearGradient3416"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,6)"
+       x1="150"
+       y1="50"
+       x2="150"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3330"
+       id="linearGradient3418"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,6)"
+       x1="150"
+       y1="50"
+       x2="150"
+       y2="0" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +108,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="497"
+     inkscape:cx="502.48037"
      inkscape:cy="392"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -37,7 +119,9 @@
      inkscape:window-y="30"
      inkscape:window-maximized="1"
      height="760px"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid3008"
@@ -146,5 +230,103 @@
          x="339.4985"
          y="72.728561"
          id="tspan3257">Style Tile</tspan></text>
-  </g>
+    <text
+       xml:space="preserve"
+       style="font-size:17.81324577px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="339.97757"
+       y="94.025253"
+       id="text3261"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3263"
+         x="339.97757"
+         y="94.025253"
+         style="font-size:17.81324577px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">version: 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="520"
+       y="230"
+       id="text3284"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3286"
+         x="520"
+         y="230"
+         style="font-size:11px;line-height:125%">Font: Name #hexcode</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="563"
+       y="148"
+       id="text3288"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3290"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="520"
+       y="294"
+       id="text3284-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3286-4"
+         x="520"
+         y="294"
+         style="font-size:11px;line-height:125%">Font: Name #hexcode</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="520"
+       y="470"
+       id="text3284-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3286-6"
+         x="520"
+         y="470"
+         style="font-size:11px;line-height:125%">Font: Name #hexcode</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.57426453px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="519.94604"
+       y="275.40125"
+       id="text3322"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3324"
+         x="519.94604"
+         y="275.40125">This is an Example of a Sub Head</tspan></text>
+    <rect
+       style="opacity:0.50000000000000000;fill:none;stroke:none"
+       id="rect3338"
+       width="490"
+       height="110"
+       x="510"
+       y="-430"
+       transform="scale(1,-1)" />
+    <rect
+       style="opacity:0.5;fill:none;stroke:none"
+       id="rect3402"
+       width="460"
+       height="110"
+       x="518"
+       y="326" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3418);fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3404"
+       transform="translate(2,-8)"><flowRegion
+         id="flowRegion3406"
+         style="fill:url(#linearGradient3414)"><use
+           x="0"
+           y="0"
+           xlink:href="#rect3402"
+           id="use3408"
+           style="fill:url(#linearGradient3412)"
+           width="1020"
+           height="760" /></flowRegion><flowPara
+         id="flowPara3410"
+         style="font-size:11px;line-height:200%;fill:url(#linearGradient3416)">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad  minim veniam, quis nostrud exercitation ulliam corper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel feugait nulla facilisi.</flowPara></flowRoot>  </g>
 </svg>
