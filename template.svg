@@ -6,13 +6,24 @@
 -->
 
 <svg
-   xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    width="1020"
    height="760"
    id="mainSvg"
    version="1.1">
+
+   <defs>
+    <linearGradient
+       id="bwVertGradient"
+       x1="0%" y1="0%"
+       x2="100%" y2="0%"
+       spreadMethod="pad">
+      <stop offset="0%"   stop-color="#333333" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+
   <g
      id="svgWrapper">
     <rect
@@ -30,6 +41,13 @@
          width="1020"
          height="50"
          x="0"
+         y="0" />
+      <rect
+         style="fill:url(#bwVertGradient);"
+         id="topGradient"
+         width="710"
+         height="50"
+         x="310"
          y="0" />
       <text
          xml:space="preserve"
