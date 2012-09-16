@@ -5,5 +5,15 @@
 </head>
 <body>
   <img src="template.svg" alt="Style Tiles Template"/>
+
+  <!-- Watch files for a dynamic reload -->
+  <script src="https://raw.github.com/twolfson/File-Watcher/master/src/watcher.js"></script>
+  <script>
+    var watcher = new FileWatcher();
+    watcher.addListener(function () {
+      location.reload();
+    });
+    watcher.watch(['/', '/template.svg']);
+  </script>
 </body>
 </html>

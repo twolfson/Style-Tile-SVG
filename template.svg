@@ -163,7 +163,7 @@
      inkscape:label="SVG"
      style="display:inline">
     <rect
-       style="opacity:0.5;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        id="rect3224"
        width="1020"
        height="50"
@@ -172,7 +172,7 @@
     <text
        transform="translate(0,-292.36218)"
        xml:space="preserve"
-       style="font-size:23.4672699px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:23.4672699px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="339.62271"
        y="327.80112"
        id="text3226"
@@ -192,7 +192,7 @@
     <text
        transform="translate(0,-292.36218)"
        xml:space="preserve"
-       style="font-size:33.91633224px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:33.91633224px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="74"
        y="372.36218"
        id="text3232"
@@ -202,7 +202,7 @@
          x="74"
          y="372.36218">Logo Here</tspan></text>
     <rect
-       style="opacity:0.5;fill:none;stroke:#000000"
+       style="fill:none;stroke:#000000"
        id="rect3243"
        width="1020"
        height="760"
@@ -307,7 +307,7 @@
        y="-430"
        transform="scale(1,-1)" />
     <rect
-       style="opacity:0.5;fill:none;stroke:none"
+       style="fill:none;stroke:none"
        id="rect3402"
        width="460"
        height="110"
@@ -435,28 +435,28 @@
        x="38"
        y="196" />
     <rect
-       style="opacity:0.5;fill:#000000;stroke:none"
+       style="fill:#000000;stroke:none"
        id="rect3558"
        width="60"
        height="60"
        x="46"
        y="200" />
     <rect
-       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1;display:inline"
+       style="fill:none;stroke:#000000;stroke-width:1;display:inline"
        id="rect3556-6"
        width="80"
        height="70"
        x="132"
        y="196" />
     <rect
-       style="opacity:0.5;fill:#000000;stroke:none;display:inline"
+       style="fill:#000000;stroke:none;display:inline"
        id="rect3558-6"
        width="60"
        height="60"
        x="140"
        y="200" />
     <rect
-       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1;display:inline"
+       style="fill:none;stroke:#000000;stroke-width:1;display:inline"
        id="rect3556-8"
        width="80"
        height="70"
@@ -465,7 +465,7 @@
        inkscape:transform-center-x="32"
        inkscape:transform-center-y="-19" />
     <rect
-       style="opacity:0.5;fill:#000000;stroke:none;display:inline"
+       style="fill:#000000;stroke:none;display:inline"
        id="rect3558-8"
        width="60"
        height="60"
@@ -474,28 +474,28 @@
        inkscape:transform-center-x="34"
        inkscape:transform-center-y="-20" />
     <rect
-       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1;display:inline"
+       style="fill:none;stroke:#000000;stroke-width:1;display:inline"
        id="rect3556-3"
        width="80"
        height="70"
        x="328"
        y="196" />
     <rect
-       style="opacity:0.5;fill:#000000;stroke:none;display:inline"
+       style="fill:#000000;stroke:none;display:inline"
        id="rect3558-3"
        width="60"
        height="60"
        x="336"
        y="200" />
     <rect
-       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1;display:inline"
+       style="fill:none;stroke:#000000;stroke-width:1;display:inline"
        id="rect3556-87"
        width="80"
        height="70"
        x="424"
        y="196" />
     <rect
-       style="opacity:0.5;fill:#000000;stroke:none;display:inline"
+       style="fill:#000000;stroke:none;display:inline"
        id="rect3558-32"
        width="60"
        height="60"
@@ -509,56 +509,56 @@
        x="46"
        y="352" />
     <rect
-       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.03774905"
+       style="fill:none;stroke:#000000;stroke-width:1.03774905"
        id="rect3610"
        width="140"
        height="140"
        x="40"
        y="348" />
     <rect
-       style="opacity:0.5;fill:#000000;stroke:none"
+       style="fill:#000000;stroke:none"
        id="rect3614"
        width="126"
        height="127.99998"
        x="44"
        y="350" />
     <rect
-       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.03774905;display:inline"
+       style="fill:none;stroke:#000000;stroke-width:1.03774905;display:inline"
        id="rect3610-6"
        width="140"
        height="140"
        x="200"
        y="350" />
     <rect
-       style="opacity:0.5;fill:#000000;stroke:none;display:inline"
+       style="fill:#000000;stroke:none;display:inline"
        id="rect3614-8"
        width="126"
        height="127.99998"
        x="204"
        y="352" />
     <rect
-       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.03774905;display:inline"
+       style="fill:none;stroke:#000000;stroke-width:1.03774905;display:inline"
        id="rect3610-1"
        width="140"
        height="140"
        x="366"
        y="348" />
     <rect
-       style="opacity:0.5;fill:#000000;stroke:none;display:inline"
+       style="fill:#000000;stroke:none;display:inline"
        id="rect3614-6"
        width="126"
        height="127.99998"
        x="370"
        y="350" />
     <rect
-       style="opacity:0.5;fill:#000000;stroke:none"
+       style="fill:#000000;stroke:none"
        id="rect3646"
        width="220"
        height="44"
        x="40"
        y="526" />
     <rect
-       style="opacity:0.5;fill:#000000;stroke:none;display:inline"
+       style="fill:#000000;stroke:none;display:inline"
        id="rect3646-9"
        width="220"
        height="44"
