@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!--
+  Initially created with Inkscape (http://www.inkscape.org/)
+  Modified by hand afterwards
+  @author Todd Wolfson <todd@twolfson.com>
+-->
+
+<!-- TODO: Replace add fall backs for serif font (Bitstream Charter is definitely not cross platform) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,16 +15,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1020"
    height="760"
    id="svg2"
    version="1.1"
    sodipodi:docname="template.svg">
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="SVG"
+     id="svg"
      style="display:inline">
     <rect
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
@@ -90,7 +93,7 @@
          id="tspan3257">Style Tile</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.81324577px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       style="font-size:17.81324577px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;"
        x="339.97757"
        y="94.025253"
        id="text3261"
@@ -99,7 +102,7 @@
          id="tspan3263"
          x="339.97757"
          y="94.025253"
-         style="font-size:17.81324577px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">version: 1</tspan></text>
+         style="font-size:17.81324577px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;">version: 1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -319,18 +322,14 @@
        width="80"
        height="70"
        x="232"
-       y="196"
-       inkscape:transform-center-x="32"
-       inkscape:transform-center-y="-19" />
+       y="196" />
     <rect
        style="fill:#000000;stroke:none;display:inline"
        id="rect3558-8"
        width="60"
        height="60"
        x="240"
-       y="200"
-       inkscape:transform-center-x="34"
-       inkscape:transform-center-y="-20" />
+       y="200" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:1;display:inline"
        id="rect3556-3"
@@ -448,7 +447,7 @@
          style="fill:#ffffff">Submit Button Example Here</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18.0922451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       style="font-size:18.0922451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;"
        x="40.503876"
        y="702.77618"
        id="text3691"
@@ -457,10 +456,10 @@
          id="tspan3693"
          x="40.503876"
          y="702.77618"
-         style="font-size:15px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">http://www.styletil.es</tspan></text>
+         style="font-size:15px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;">http://www.styletil.es</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14.94759083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       style="font-size:14.94759083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Charter;"
        x="40.13522"
        y="727.68555"
        id="text3691-6"
@@ -469,7 +468,7 @@
          id="tspan3693-2"
          x="40.13522"
          y="727.68555"
-         style="font-size:14.94759083px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">Template by @Semanthatoy</tspan></text>
+         style="font-size:14.94759083px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;">Template by @Semanthatoy</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
@@ -484,7 +483,7 @@
          style="font-size:17px;fill:#b3b3b3">Be creative, don't just use this template as-is!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14.94759083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       style="font-size:14.94759083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Charter;"
        x="248.4192"
        y="726.8714"
        id="text3691-6-1"
@@ -493,7 +492,7 @@
          id="tspan3693-2-6"
          x="248.4192"
          y="726.8714"
-         style="font-size:14.94759083px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">Converted to SVG by @twolfsn</tspan></text>
+         style="font-size:14.94759083px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;">Converted to SVG by @twolfsn</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
