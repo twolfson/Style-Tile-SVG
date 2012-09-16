@@ -8,20 +8,15 @@
 <!-- TODO: Replace add fall backs for serif font (Bitstream Charter is definitely not cross platform) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    width="1020"
    height="760"
-   id="svg2"
-   version="1.1"
-   sodipodi:docname="template.svg">
+   id="mainSvg"
+   version="1.1">
   <g
-     id="svg"
+     id="svgGroup"
      style="display:inline">
     <rect
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
@@ -36,9 +31,7 @@
        style="font-size:23.4672699px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="339.62271"
        y="327.80112"
-       id="text3226"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3226"><tspan
          id="tspan3228"
          x="339.62271"
          y="327.80112">Project Name</tspan></text>
@@ -56,9 +49,7 @@
        style="font-size:33.91633224px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="74"
        y="372.36218"
-       id="text3232"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3232"><tspan
          id="tspan3234"
          x="74"
          y="372.36218">Logo Here</tspan></text>
@@ -74,9 +65,7 @@
        style="font-size:16.22511101px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="40.333382"
        y="167.33665"
-       id="text3245"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3245"><tspan
          x="40.333382"
          y="167.33665"
          id="tspan3249">Possible Colors</tspan></text>
@@ -85,9 +74,7 @@
        style="font-size:17.26740646px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="339.4985"
        y="72.728561"
-       id="text3253"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3253"><tspan
          x="339.4985"
          y="72.728561"
          id="tspan3257">Style Tile</tspan></text>
@@ -96,9 +83,7 @@
        style="font-size:17.81324577px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;"
        x="339.97757"
        y="94.025253"
-       id="text3261"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3261"><tspan
          id="tspan3263"
          x="339.97757"
          y="94.025253"
@@ -108,9 +93,7 @@
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="520"
        y="230"
-       id="text3284"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3284"><tspan
          id="tspan3286"
          x="520"
          y="230"
@@ -120,18 +103,14 @@
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="563"
        y="148"
-       id="text3288"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3288"><tspan
          id="tspan3290"></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
        y="294"
-       id="text3284-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3284-0"><tspan
          id="tspan3286-4"
          x="520"
          y="294"
@@ -141,9 +120,7 @@
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
        y="470"
-       id="text3284-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3284-7"><tspan
          id="tspan3286-6"
          x="520"
          y="470"
@@ -153,9 +130,7 @@
        style="font-size:21.57426453px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="519.94604"
        y="275.40125"
-       id="text3322"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3322"><tspan
          id="tspan3324"
          x="519.94604"
          y="275.40125">This is an Example of a Sub Head</tspan></text>
@@ -194,9 +169,7 @@
        style="font-size:10.57773209px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="521.91382"
        y="497.64597"
-       id="text3420"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3420"><tspan
          id="tspan3422"
          x="521.91382"
          y="497.64597">This is an example of a Text Link »</tspan></text>
@@ -205,9 +178,7 @@
        style="font-size:15.20080757px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="522.19373"
        y="549.15845"
-       id="text3424"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3424"><tspan
          id="tspan3426"
          x="522.19373"
          y="549.15845">Adjectives</tspan></text>
@@ -216,9 +187,7 @@
        style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="519.76593"
        y="597.31097"
-       id="text3428"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3428"><tspan
          id="tspan3430"
          x="519.76593"
          y="597.31097">Lorem</tspan></text>
@@ -227,9 +196,7 @@
        style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="664"
        y="598"
-       id="text3428-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3428-1"><tspan
          id="tspan3430-5"
          x="664"
          y="598">Ipsum</tspan></text>
@@ -238,9 +205,7 @@
        style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="817.76593"
        y="597.31097"
-       id="text3428-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3428-0"><tspan
          id="tspan3430-0"
          x="817.76593"
          y="597.31097">Dolor</tspan></text>
@@ -249,9 +214,7 @@
        style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
        y="646"
-       id="text3428-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3428-6"><tspan
          id="tspan3430-3"
          x="520"
          y="646">Sit</tspan></text>
@@ -260,9 +223,7 @@
        style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="664"
        y="648"
-       id="text3428-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3428-8"><tspan
          id="tspan3430-54"
          x="664"
          y="648">Amet</tspan></text>
@@ -271,9 +232,7 @@
        style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="818"
        y="648"
-       id="text3428-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3428-2"><tspan
          id="tspan3430-2"
          x="818"
          y="648">Magna</tspan></text>
@@ -282,9 +241,7 @@
        style="font-size:16.22511101px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="42"
        y="320"
-       id="text3245-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3245-0"><tspan
          x="42"
          y="320"
          id="tspan3249-0">Textures</tspan></text>
@@ -426,9 +383,7 @@
        style="font-size:11.274333px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="59.915886"
        y="551.97485"
-       id="text3666"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3666"><tspan
          id="tspan3668"
          x="59.915886"
          y="551.97485"
@@ -438,9 +393,7 @@
        style="font-size:11.274333px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="298"
        y="552"
-       id="text3666-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3666-3"><tspan
          id="tspan3668-1"
          x="298"
          y="552"
@@ -450,9 +403,7 @@
        style="font-size:18.0922451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;"
        x="40.503876"
        y="702.77618"
-       id="text3691"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3691"><tspan
          id="tspan3693"
          x="40.503876"
          y="702.77618"
@@ -462,9 +413,7 @@
        style="font-size:14.94759083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Charter;"
        x="40.13522"
        y="727.68555"
-       id="text3691-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3691-6"><tspan
          id="tspan3693-2"
          x="40.13522"
          y="727.68555"
@@ -474,9 +423,7 @@
        style="font-size:17px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
        x="520"
        y="726"
-       id="text3716"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3716"><tspan
          id="tspan3718"
          x="520"
          y="726"
@@ -486,9 +433,7 @@
        style="font-size:14.94759083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Charter;"
        x="248.4192"
        y="726.8714"
-       id="text3691-6-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3691-6-1"><tspan
          id="tspan3693-2-6"
          x="248.4192"
          y="726.8714"
@@ -498,9 +443,7 @@
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="522"
        y="212"
-       id="text3741"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3741"><tspan
          id="tspan3743"
          x="522"
          y="212">This is an Example of a Header</tspan></text>
@@ -509,9 +452,7 @@
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="657"
        y="137"
-       id="text3745"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       id="text3745"><tspan
          id="tspan3747"
          x="657"
          y="137" /></text>
