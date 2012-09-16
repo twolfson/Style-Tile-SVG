@@ -15,13 +15,22 @@
 
    <defs>
     <linearGradient
-       id="bwVertGradient"
-       x1="0%" y1="0%"
-       x2="100%" y2="0%"
-       spreadMethod="pad">
+      id="bwVertGradient"
+      x1="0%" y1="0%"
+      x2="100%" y2="0%"
+      spreadMethod="pad">
       <stop offset="0%"   stop-color="#333333" stop-opacity="1"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="1" />
     </linearGradient>
+
+    <radialGradient
+      id="bwRadialGradient"
+      fx="50%" fy="-20%" r="100%"
+      spreadMethod="pad">
+      <stop offset="0%"   stop-color="#DFDFDF" stop-opacity="1"/>
+      <stop offset="40%" stop-color="#FFFFFF" stop-opacity="1" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="1" />
+    </radialGradient>
   </defs>
 
   <g
@@ -59,7 +68,7 @@
     <g
       id="logoGroup">
       <rect
-         style="fill:#ffffff;stroke:#4d4d4d"
+         style="fill:url(#bwRadialGradient);stroke:#4d4d4d"
          width="280"
          height="140"
          x="30"
