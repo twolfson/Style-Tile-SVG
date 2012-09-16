@@ -20,7 +20,7 @@
      style="display:inline">
     <rect
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       id="rect3224"
+       id="topBar"
        width="1020"
        height="50"
        x="0"
@@ -36,7 +36,7 @@
          x="339.62271"
          y="327.80112">Project Name</tspan></text>
     <rect
-       style="opacity:0.50000000000000000;fill:#ffffff;display:inline;stroke:#4d4d4d"
+       style="fill:#ffffff;displayop:inline;stroke:#4d4d4d"
        id="rect3230"
        width="280"
        height="140"
@@ -163,6 +163,7 @@
          id="flowPara3410"
          style="font-size:11px;line-height:200%;fill:#000000">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad  minim veniam, quis nostrud exercitation ulliam corper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel feugait nulla facilisi.</flowPara>
     </flowRoot>
+    <text x="520" y="310">Your viewer does not support HTML or SVG flow</text>
     </switch>
     <text
        xml:space="preserve"
@@ -246,7 +247,7 @@
          y="320"
          id="tspan3249-0">Textures</tspan></text>
     <rect
-       style="opacity:0.50000000000000000;fill:none;stroke:#000000;stroke-width:1"
+       style="fill:none;stroke:#000000;stroke-width:1"
        id="rect3556"
        width="80"
        height="70"
@@ -316,7 +317,7 @@
        x="432"
        y="200" />
     <rect
-       style="opacity:0.50000000000000000;fill:none;stroke:#000000"
+       style="fill:none;stroke:#000000"
        id="rect3608"
        width="124"
        height="124"
