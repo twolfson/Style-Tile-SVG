@@ -36,7 +36,7 @@
          style="font-size:24px;fill:#ffffff;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          id="projectName"
          x="340"
-         y="35">Project Name</text>
+         y="35"><tspan style="font-weight:bold;">Project Name</tspan></text>
     </g>
     <g
       id="logoGroup">
@@ -58,7 +58,7 @@
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="340"
-       y="75">Style Tile</text>
+       y="75"><tspan style="font-weight:bold;">Style Tile</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
@@ -235,9 +235,9 @@ height="130"             x="365"
       id="headerGroup">
       <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:28px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
-       y="210">This is an Example of a Header</text>
+       y="210"><tspan style="font-weight:bold;">This is an Example of a Header</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:11px;fill:#666666;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"

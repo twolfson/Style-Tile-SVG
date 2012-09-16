@@ -6,13 +6,22 @@
 -->
 
 <svg
-   xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    width="1020"
    height="760"
    id="mainSvg"
    version="1.1">
+
+   <defs>
+    <radialGradient id="myRadialGradient4"
+       fx="5%" fy="5%" r="65%"
+       spreadMethod="pad">
+      <stop offset="0%"   stop-color="#00ee00" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#006600" stop-opacity="1" />
+    </radialGradient>
+  </defs>
+
   <g
      id="svgWrapper">
     <rect
@@ -23,9 +32,9 @@
        y="0"
        id="wrapperBorder" />
     <g
-      id="topBarGroup">
+      id="topBarGroup">T
       <rect
-         style="{{> blackRect}}"
+         style="fill:url(#myRadialGradient4);"
          id="topBar"
          width="1020"
          height="50"
@@ -36,7 +45,7 @@
          style="font-size:24px;fill:#ffffff;{{> sansserif}}"
          id="projectName"
          x="340"
-         y="35">Project Name</text>
+         y="35"><tspan style="font-weight:bold;">Project Name</tspan></text>
     </g>
     <g
       id="logoGroup">
@@ -58,7 +67,7 @@
        xml:space="preserve"
        style="font-size:18px;{{> sansserif}}"
        x="340"
-       y="75">Style Tile</text>
+       y="75"><tspan style="font-weight:bold;">Style Tile</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;{{> serif}}"
@@ -235,9 +244,9 @@
       id="headerGroup">
       <text
        xml:space="preserve"
-       style="font-size:30px;{{> sansserif}}"
+       style="font-size:28px;{{> sansserif}}"
        x="520"
-       y="210">This is an Example of a Header</text>
+       y="210"><tspan style="font-weight:bold;">This is an Example of a Header</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:11px;fill:#666666;{{> sansserif}}"
