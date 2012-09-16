@@ -175,96 +175,84 @@
            y="650">Magna</text>
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:16.22511101px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="42"
-       y="320"
-       id="text3245-0">Textures</text>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1"
-       id="rect3556"
-       width="80"
-       height="70"
-       x="38"
-       y="196" />
-    <rect
-       style="stroke:none"
-       id="rect3558"
-       width="60"
-       height="60"
-       x="46"
-       y="200" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1;display:inline"
-       id="rect3556-6"
-       width="80"
-       height="70"
-       x="132"
-       y="196" />
-    <rect
-       style="stroke:none;display:inline"
-       id="rect3558-6"
-       width="60"
-       height="60"
-       x="140"
-       y="200" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1;display:inline"
-       id="rect3556-8"
-       width="80"
-       height="70"
-       x="232"
-       y="196" />
-    <rect
-       style="stroke:none;display:inline"
-       id="rect3558-8"
-       width="60"
-       height="60"
-       x="240"
-       y="200" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1;display:inline"
-       id="rect3556-3"
-       width="80"
-       height="70"
-       x="328"
-       y="196" />
-    <rect
-       style="stroke:none;display:inline"
-       id="rect3558-3"
-       width="60"
-       height="60"
-       x="336"
-       y="200" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1;display:inline"
-       id="rect3556-87"
-       width="80"
-       height="70"
-       x="424"
-       y="196" />
-    <rect
-       style="stroke:none;display:inline"
-       id="rect3558-32"
-       width="60"
-       height="60"
-       x="432"
-       y="200" />
-    <rect
-       style="fill:none;stroke:#000000"
-       id="rect3608"
-       width="124"
-       height="124"
-       x="46"
-       y="352" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.03774905"
-       id="rect3610"
-       width="140"
-       height="140"
-       x="40"
-       y="348" />
+    <g
+      id="textureGroup">
+      <text
+         xml:space="preserve"
+         style="font-size:16.22511101px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="42"
+         y="320"
+         id="textureHeader">Textures</text>
+      <g
+        id="textures">
+      </g>
+    </g>
+    <g
+      id="colorGroup">
+      <g
+        id="colors">
+        <g>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1"
+width="70"
+height="70"             x="40"
+             y="200" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+width="60"
+height="60"             x="45"
+             y="205" />
+        </g>
+        <g>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1"
+width="70"
+height="70"             x="130"
+             y="200" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+width="60"
+height="60"             x="135"
+             y="205" />
+        </g>
+        <g>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1"
+width="70"
+height="70"             x="230"
+             y="200" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+width="60"
+height="60"             x="235"
+             y="205" />
+        </g>
+        <g>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1"
+width="70"
+height="70"             x="330"
+             y="200" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+width="60"
+height="60"             x="335"
+             y="205" />
+        </g>
+        <g>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1"
+width="70"
+height="70"             x="430"
+             y="200" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+width="60"
+height="60"             x="435"
+             y="205" />
+        </g>
+      </g>
+    </g>
     <rect
        style="stroke:none"
        id="rect3614"
