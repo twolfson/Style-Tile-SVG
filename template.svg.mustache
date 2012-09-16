@@ -47,6 +47,22 @@
           <feMergeNode in="SourceGraphic"/>
        </feMerge>
     </filter>
+
+    <filter id="thickDropshadow">
+      <!-- stdDeviation is how much to blur -->
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+        <!-- how much to offset -->
+        <feOffset dx="0" dy="0" result="offsetblur"/>
+        <feComponentTransfer>
+          <feFuncA type="linear" slope="0.4"/>
+        </feComponentTransfer>
+        <feMerge>
+          <!-- this contains the offset blurred image -->
+          <feMergeNode/>
+          <!-- this contains the element that the filter is applied to -->
+          <feMergeNode in="SourceGraphic"/>
+       </feMerge>
+    </filter>
   </defs>
 
    <g
@@ -84,7 +100,7 @@
     <g
       id="logoGroup">
       <rect
-         style="fill:url(#bwRadialGradient);stroke:#4d4d4d"
+         style="fill:url(#bwRadialGradient);filter:url(#thickDropshadow)"
          width="280"
          height="140"
          x="30"
