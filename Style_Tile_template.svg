@@ -111,7 +111,7 @@
      inkscape:cx="507.46875"
      inkscape:cy="361"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1400"
      inkscape:window-height="1000"
@@ -624,5 +624,17 @@
          x="520"
          y="726"
          style="font-size:17px;fill:#b3b3b3">Be creative, don't just use this template as-is!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.94759083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="248.4192"
+       y="726.8714"
+       id="text3691-6-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3693-2-6"
+         x="248.4192"
+         y="726.8714"
+         style="font-size:14.94759083px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">Converted to SVG by @twolfsn</tspan></text>
   </g>
 </svg>
