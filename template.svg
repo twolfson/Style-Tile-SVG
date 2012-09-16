@@ -38,24 +38,22 @@
          x="340"
          y="35">Project Name</text>
     </g>
-    <rect
-       style="fill:#ffffff;stroke:#4d4d4d"
-       width="280"
-       height="140"
-       x="30"
-       y="0"
-       id="logoBg" />
-    <text
-       xml:space="preserve"
-       style="font-size:34px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="70"
-       y="80"
-       id="logo">Logo Here</text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="40"
-       y="170">Possible Colors</text>
+    <g
+      id="logoGroup">
+      <rect
+         style="fill:#ffffff;stroke:#4d4d4d"
+         width="280"
+         height="140"
+         x="30"
+         y="0"
+         id="logoBg" />
+      <text
+         xml:space="preserve"
+         style="font-size:34px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="70"
+         y="80"
+         id="logo">Logo Here</text>
+    </g>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -66,100 +64,14 @@
        style="font-size:18px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
        x="340"
        y="100">version: 1</text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;fill:#666666;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="520"
-       y="230">Font: Name #hexcode</text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;fill:#666666;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="520"
-       y="470">Font: Name #hexcode</text>
-    <text
-       xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="520"
-       y="275">This is an Example of a Sub Head</text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;fill:#666666;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="520"
-       y="300">Font: Name #hexcode</text>
-    <switch>
-    <foreignObject
-      x="520"
-      y="320"
-      width="500"
-      height="400">
-    <p xmlns="http://www.w3.org/1999/xhtml" style="font-size:11px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad  minim veniam, quis nostrud exercitation ulliam corper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel feugait nulla facilisi.</p>
-    </foreignObject>
-    <flowRoot
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans">
-       <flowRegion
-         style="fill:#000000">
-         <use
-           x="0"
-           y="0"
-           style="fill:#000000"
-           width="1020"
-           height="760" />
-      </flowRegion>
-      <flowPara
-         style="font-size:11px;line-height:200%;fill:#000000">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad  minim veniam, quis nostrud exercitation ulliam corper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel feugait nulla facilisi.</flowPara>
-    </flowRoot>
-    <text x="520" y="310">Your viewer does not support HTML or SVG flow</text>
-    </switch>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="520"
-       y="500">This is an example of a Text Link »</text>
-    <g
-      id="adjectiveGroup">
-      <text
-         xml:space="preserve"
-         style="font-size:15px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="520"
-         y="550"
-         id="ajectiveHeader">Adjectives</text>
-      <g
-        id="adjectives">
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           x="520"
-           y="600">Lorem</text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           x="660"
-           y="600">Ipsum</text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           x="820"
-           y="600">Dolor</text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           x="520"
-           y="650">Sit</text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           x="660"
-           y="650">Amet</text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-           x="820"
-           y="650">Magna</text>
-      </g>
-    </g>
     <g
       id="colorGroup">
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="40"
+         y="170"
+         id="colorHeader">Possible Colors</text>
       <g
         id="colors">
         <g>
@@ -319,15 +231,117 @@ height="130"             x="365"
          x="250"
          y="730">Converted to SVG by @twolfsn</text>
     </g>
+    <g
+      id="headerGroup">
+      <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="520"
+       y="210">This is an Example of a Header</text>
+      <text
+         xml:space="preserve"
+         style="font-size:11px;fill:#666666;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="520"
+         y="230">Font: Name #hexcode</text>
+    </g>
+    <g
+      id="subHeaderGroup">
+      <text
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="520"
+         y="275">This is an Example of a Sub Head</text>
+      <text
+         xml:space="preserve"
+         style="font-size:11px;fill:#666666;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="520"
+         y="470">Font: Name #hexcode</text>
+    </g>
+    <g
+      id="paragraphGroup">
+      <switch>
+      <foreignObject
+        x="520"
+        y="320"
+        width="500"
+        height="400">
+      <p xmlns="http://www.w3.org/1999/xhtml" style="font-size:11px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad  minim veniam, quis nostrud exercitation ulliam corper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel feugait nulla facilisi.</p>
+      </foreignObject>
+      <flowRoot
+         xml:space="preserve"
+         style="font-size:11px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans">
+         <flowRegion
+           style="fill:#000000">
+           <use
+             x="0"
+             y="0"
+             style="fill:#000000"
+             width="1020"
+             height="760" />
+        </flowRegion>
+        <flowPara
+           style="font-size:11px;line-height:200%;fill:#000000">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad  minim veniam, quis nostrud exercitation ulliam corper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel feugait nulla facilisi.</flowPara>
+      </flowRoot>
+      <text x="520" y="310">Your viewer does not support HTML or SVG flow</text>
+      </switch>
+      <text
+         xml:space="preserve"
+         style="font-size:11px;fill:#666666;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="520"
+         y="300">Font: Name #hexcode</text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="520"
+       y="500">This is an example of a Text Link »</text>
+    <g
+      id="adjectiveGroup">
+      <text
+         xml:space="preserve"
+         style="font-size:15px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="520"
+         y="550"
+         id="ajectiveHeader">Adjectives</text>
+      <g
+        id="adjectives">
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           x="520"
+           y="600">Lorem</text>
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           x="660"
+           y="600">Ipsum</text>
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           x="820"
+           y="600">Dolor</text>
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           x="520"
+           y="650">Sit</text>
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           x="660"
+           y="650">Amet</text>
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           x="820"
+           y="650">Magna</text>
+      </g>
+    </g>
     <text
        xml:space="preserve"
        style="font-size:17px;fill:#b3b3b3;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
        y="730">Be creative, don't just use this template as-is!</text>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="520"
-       y="210">This is an Example of a Header</text>
+
   </g>
 </svg>
