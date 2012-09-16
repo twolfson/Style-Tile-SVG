@@ -108,11 +108,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="607.20312"
-     inkscape:cy="392"
+     inkscape:cx="507.46875"
+     inkscape:cy="361"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
-     showgrid="true"
+     inkscape:current-layer="layer1"
+     showgrid="false"
      inkscape:window-width="1400"
      inkscape:window-height="1000"
      inkscape:window-x="0"
@@ -147,7 +147,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-292.36218)"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <image
        width="1020"
@@ -501,5 +501,128 @@
        height="60"
        x="432"
        y="200" />
+    <rect
+       style="opacity:0.50000000000000000;fill:none;stroke:#000000"
+       id="rect3608"
+       width="124"
+       height="124"
+       x="46"
+       y="352" />
+    <rect
+       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.03774905"
+       id="rect3610"
+       width="140"
+       height="140"
+       x="40"
+       y="348" />
+    <rect
+       style="opacity:0.5;fill:#000000;stroke:none"
+       id="rect3614"
+       width="126"
+       height="127.99998"
+       x="44"
+       y="350" />
+    <rect
+       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.03774905;display:inline"
+       id="rect3610-6"
+       width="140"
+       height="140"
+       x="200"
+       y="350" />
+    <rect
+       style="opacity:0.5;fill:#000000;stroke:none;display:inline"
+       id="rect3614-8"
+       width="126"
+       height="127.99998"
+       x="204"
+       y="352" />
+    <rect
+       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1.03774905;display:inline"
+       id="rect3610-1"
+       width="140"
+       height="140"
+       x="366"
+       y="348" />
+    <rect
+       style="opacity:0.5;fill:#000000;stroke:none;display:inline"
+       id="rect3614-6"
+       width="126"
+       height="127.99998"
+       x="370"
+       y="350" />
+    <rect
+       style="opacity:0.5;fill:#000000;stroke:none"
+       id="rect3646"
+       width="220"
+       height="44"
+       x="40"
+       y="526" />
+    <rect
+       style="opacity:0.5;fill:#000000;stroke:none;display:inline"
+       id="rect3646-9"
+       width="220"
+       height="44"
+       x="280"
+       y="526" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.274333px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="59.915886"
+       y="551.97485"
+       id="text3666"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3668"
+         x="59.915886"
+         y="551.97485"
+         style="fill:#ffffff">This is an example of a Button</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.274333px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="298"
+       y="552"
+       id="text3666-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3668-1"
+         x="298"
+         y="552"
+         style="fill:#ffffff">Submit Button Example Here</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.0922451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="40.503876"
+       y="702.77618"
+       id="text3691"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3693"
+         x="40.503876"
+         y="702.77618"
+         style="font-size:15px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">http://www.styletil.es</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.94759083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="40.13522"
+       y="727.68555"
+       id="text3691-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3693-2"
+         x="40.13522"
+         y="727.68555"
+         style="font-size:14.94759083px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">Template by @Semanthatoy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
+       x="520"
+       y="726"
+       id="text3716"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3718"
+         x="520"
+         y="726"
+         style="font-size:17px;fill:#b3b3b3">Be creative, don't just use this template as-is!</tspan></text>
   </g>
 </svg>
