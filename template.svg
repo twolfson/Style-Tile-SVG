@@ -27,7 +27,7 @@
     <g
       id="topBarGroup">
       <rect
-         style="fill:pink;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inlinefill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
          id="topBar"
          width="1020"
          height="50"
@@ -35,7 +35,7 @@
          y="0" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         style="font-size:24px;fill:#ffffff;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          id="projectName"
          x="340"
          y="33"
@@ -50,13 +50,13 @@
        id="logoBg" />
     <text
        xml:space="preserve"
-       style="font-size:34px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:34px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="70"
        y="80"
        id="logo">Logo Here</text>
     <text
        xml:space="preserve"
-       style="font-size:16.22511101px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:16px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="40.333382"
        y="167.33665"
        id="text3245"><tspan
@@ -65,7 +65,7 @@
          id="tspan3249">Possible Colors</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.26740646px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:17.26740646px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="339.4985"
        y="72.728561"
        id="text3253"><tspan
@@ -74,17 +74,13 @@
          id="tspan3257">Style Tile</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.81324577px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;"
+       style="font-size:17.81324577px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
        x="339.97757"
        y="94.025253"
-       id="text3261"><tspan
-         id="tspan3263"
-         x="339.97757"
-         y="94.025253"
-         style="font-size:17.81324577px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;">version: 1</tspan></text>
+       id="text3261">version: 1</text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
        y="230"
        id="text3284"><tspan
@@ -94,14 +90,14 @@
          style="font-size:11px;line-height:125%">Font: Name #hexcode</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="563"
        y="148"
        id="text3288"><tspan
          id="tspan3290"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
        y="294"
        id="text3284-0"><tspan
@@ -111,7 +107,7 @@
          style="font-size:11px;line-height:125%">Font: Name #hexcode</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
        y="470"
        id="text3284-7"><tspan
@@ -121,7 +117,7 @@
          style="font-size:11px;line-height:125%">Font: Name #hexcode</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:21.57426453px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:21.57426453px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="519.94604"
        y="275.40125"
        id="text3322"><tspan
@@ -134,11 +130,11 @@
       y="310"
       width="500"
       height="400">
-    <p xmlns="http://www.w3.org/1999/xhtml" style="font-size:11px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad  minim veniam, quis nostrud exercitation ulliam corper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel feugait nulla facilisi.</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" style="font-size:11px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad  minim veniam, quis nostrud exercitation ulliam corper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel feugait nulla facilisi.</p>
     </foreignObject>
     <flowRoot
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:11px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        id="flowRoot3404"
        transform="translate(2,-8)">
        <flowRegion
@@ -161,7 +157,7 @@
     </switch>
     <text
        xml:space="preserve"
-       style="font-size:10.57773209px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:10.57773209px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="521.91382"
        y="497.64597"
        id="text3420"><tspan
@@ -170,7 +166,7 @@
          y="497.64597">This is an example of a Text Link »</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:15.20080757px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:15.20080757px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="522.19373"
        y="549.15845"
        id="text3424"><tspan
@@ -179,7 +175,7 @@
          y="549.15845">Adjectives</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:32.19615555px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="519.76593"
        y="597.31097"
        id="text3428"><tspan
@@ -188,7 +184,7 @@
          y="597.31097">Lorem</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:32.19615555px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="664"
        y="598"
        id="text3428-1"><tspan
@@ -197,7 +193,7 @@
          y="598">Ipsum</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:32.19615555px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="817.76593"
        y="597.31097"
        id="text3428-0"><tspan
@@ -206,7 +202,7 @@
          y="597.31097">Dolor</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:32.19615555px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
        y="646"
        id="text3428-6"><tspan
@@ -215,7 +211,7 @@
          y="646">Sit</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:32.19615555px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="664"
        y="648"
        id="text3428-8"><tspan
@@ -224,7 +220,7 @@
          y="648">Amet</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32.19615555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:32.19615555px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="818"
        y="648"
        id="text3428-2"><tspan
@@ -233,7 +229,7 @@
          y="648">Magna</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16.22511101px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:16.22511101px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="42"
        y="320"
        id="text3245-0"><tspan
@@ -248,7 +244,7 @@
        x="38"
        y="196" />
     <rect
-       style="fill:#000000;stroke:none"
+       style="stroke:none"
        id="rect3558"
        width="60"
        height="60"
@@ -262,7 +258,7 @@
        x="132"
        y="196" />
     <rect
-       style="fill:#000000;stroke:none;display:inline"
+       style="stroke:none;display:inline"
        id="rect3558-6"
        width="60"
        height="60"
@@ -276,7 +272,7 @@
        x="232"
        y="196" />
     <rect
-       style="fill:#000000;stroke:none;display:inline"
+       style="stroke:none;display:inline"
        id="rect3558-8"
        width="60"
        height="60"
@@ -290,7 +286,7 @@
        x="328"
        y="196" />
     <rect
-       style="fill:#000000;stroke:none;display:inline"
+       style="stroke:none;display:inline"
        id="rect3558-3"
        width="60"
        height="60"
@@ -304,7 +300,7 @@
        x="424"
        y="196" />
     <rect
-       style="fill:#000000;stroke:none;display:inline"
+       style="stroke:none;display:inline"
        id="rect3558-32"
        width="60"
        height="60"
@@ -325,7 +321,7 @@
        x="40"
        y="348" />
     <rect
-       style="fill:#000000;stroke:none"
+       style="stroke:none"
        id="rect3614"
        width="126"
        height="127.99998"
@@ -339,7 +335,7 @@
        x="200"
        y="350" />
     <rect
-       style="fill:#000000;stroke:none;display:inline"
+       style="stroke:none;display:inline"
        id="rect3614-8"
        width="126"
        height="127.99998"
@@ -353,21 +349,21 @@
        x="366"
        y="348" />
     <rect
-       style="fill:#000000;stroke:none;display:inline"
+       style="stroke:none;display:inline"
        id="rect3614-6"
        width="126"
        height="127.99998"
        x="370"
        y="350" />
     <rect
-       style="fill:#000000;stroke:none"
+       style="stroke:none"
        id="rect3646"
        width="220"
        height="44"
        x="40"
        y="526" />
     <rect
-       style="fill:#000000;stroke:none;display:inline"
+       style="stroke:none;display:inline"
        id="rect3646-9"
        width="220"
        height="44"
@@ -375,7 +371,7 @@
        y="526" />
     <text
        xml:space="preserve"
-       style="font-size:11.274333px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:11.274333px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="59.915886"
        y="551.97485"
        id="text3666"><tspan
@@ -385,7 +381,7 @@
          style="fill:#ffffff">This is an example of a Button</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11.274333px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:11.274333px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="298"
        y="552"
        id="text3666-3"><tspan
@@ -395,47 +391,31 @@
          style="fill:#ffffff">Submit Button Example Here</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18.0922451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;"
+       style="font-size:15px;fill:#808080;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
        x="40.503876"
        y="702.77618"
-       id="text3691"><tspan
-         id="tspan3693"
-         x="40.503876"
-         y="702.77618"
-         style="font-size:15px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;">http://www.styletil.es</tspan></text>
+       id="text3691">http://www.styletil.es</text>
     <text
        xml:space="preserve"
-       style="font-size:14.94759083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Charter;"
+       style="font-size:15px;fill:#808080;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
        x="40.13522"
        y="727.68555"
-       id="text3691-6"><tspan
-         id="tspan3693-2"
-         x="40.13522"
-         y="727.68555"
-         style="font-size:14.94759083px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;">Template by @Semanthatoy</tspan></text>
+       id="text3691-6">Template by @Semanthatoy</text>
     <text
        xml:space="preserve"
-       style="font-size:17px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:17px;fill:#b3b3b3;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
        y="726"
-       id="text3716"><tspan
-         id="tspan3718"
-         x="520"
-         y="726"
-         style="font-size:17px;fill:#b3b3b3">Be creative, don't just use this template as-is!</tspan></text>
+       id="text3716">Be creative, don't just use this template as-is!</text>
     <text
        xml:space="preserve"
-       style="font-size:14.94759083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Charter;"
+       style="font-size:15px;fill:#808080;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
        x="248.4192"
        y="726.8714"
-       id="text3691-6-1"><tspan
-         id="tspan3693-2-6"
-         x="248.4192"
-         y="726.8714"
-         style="font-size:14.94759083px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Bitstream Charter;">Converted to SVG by @twolfsn</tspan></text>
+       id="text3691-6-1">Converted to SVG by @twolfsn</text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="522"
        y="212"
        id="text3741"><tspan
@@ -444,7 +424,7 @@
          y="212">This is an Example of a Header</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="657"
        y="137"
        id="text3745"><tspan
