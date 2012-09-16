@@ -29,14 +29,15 @@
      inkscape:cx="497"
      inkscape:cy="392"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1400"
      inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     height="760px">
+     height="760px"
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid3008"
@@ -58,10 +59,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="PNG"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-292.36218)">
+     transform="translate(0,-292.36218)"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <image
        width="1020"
        height="760"
@@ -69,5 +72,79 @@
        id="image3183"
        x="0"
        y="292.36218" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="SVG"
+     style="display:inline">
+    <rect
+       style="opacity:0.5;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       id="rect3224"
+       width="1020"
+       height="50"
+       x="0"
+       y="0" />
+    <text
+       transform="translate(0,-292.36218)"
+       xml:space="preserve"
+       style="font-size:23.4672699px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="339.62271"
+       y="327.80112"
+       id="text3226"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3228"
+         x="339.62271"
+         y="327.80112">Project Name</tspan></text>
+    <rect
+       style="opacity:0.50000000000000000;fill:#ffffff;display:inline;stroke:#4d4d4d"
+       id="rect3230"
+       width="280"
+       height="140"
+       x="30"
+       y="-140"
+       transform="scale(1,-1)" />
+    <text
+       transform="translate(0,-292.36218)"
+       xml:space="preserve"
+       style="font-size:33.91633224px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="74"
+       y="372.36218"
+       id="text3232"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3234"
+         x="74"
+         y="372.36218">Logo Here</tspan></text>
+    <rect
+       style="opacity:0.5;fill:none;stroke:#000000"
+       id="rect3243"
+       width="1020"
+       height="760"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.22511101px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="40.333382"
+       y="167.33665"
+       id="text3245"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="40.333382"
+         y="167.33665"
+         id="tspan3249">Possible Colors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.26740646px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="339.4985"
+       y="72.728561"
+       id="text3253"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="339.4985"
+         y="72.728561"
+         id="tspan3257">Style Tile</tspan></text>
   </g>
 </svg>
