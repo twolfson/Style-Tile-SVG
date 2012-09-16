@@ -18,7 +18,7 @@
   <g
      id="svgWrapper">
     <rect
-       style="fill:none;stroke:#000000"
+       style="fill:none;stroke:#000000;stroke-width:1"
        width="1020"
        height="760"
        x="0"
@@ -27,7 +27,7 @@
     <g
       id="topBarGroup">
       <rect
-         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inlinefill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
          id="topBar"
          width="1020"
          height="50"
@@ -176,18 +176,6 @@
       </g>
     </g>
     <g
-      id="textureGroup">
-      <text
-         xml:space="preserve"
-         style="font-size:16.22511101px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="42"
-         y="320"
-         id="textureHeader">Textures</text>
-      <g
-        id="textures">
-      </g>
-    </g>
-    <g
       id="colorGroup">
       <g
         id="colors">
@@ -253,96 +241,112 @@ height="60"             x="435"
         </g>
       </g>
     </g>
-    <rect
-       style="stroke:none"
-       id="rect3614"
-       width="126"
-       height="127.99998"
-       x="44"
-       y="350" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.03774905;display:inline"
-       id="rect3610-6"
-       width="140"
-       height="140"
-       x="200"
-       y="350" />
-    <rect
-       style="stroke:none;display:inline"
-       id="rect3614-8"
-       width="126"
-       height="127.99998"
-       x="204"
-       y="352" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.03774905;display:inline"
-       id="rect3610-1"
-       width="140"
-       height="140"
-       x="366"
-       y="348" />
-    <rect
-       style="stroke:none;display:inline"
-       id="rect3614-6"
-       width="126"
-       height="127.99998"
-       x="370"
-       y="350" />
-    <rect
-       style="stroke:none"
-       id="rect3646"
-       width="220"
-       height="44"
-       x="40"
-       y="526" />
-    <rect
-       style="stroke:none;display:inline"
-       id="rect3646-9"
-       width="220"
-       height="44"
-       x="280"
-       y="526" />
-    <text
-       xml:space="preserve"
-       style="font-size:11px;fill:#ffffff;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="59.915886"
-       y="551.97485"
-       id="text3666">This is an example of a Button</text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;fill:#ffffff;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="298"
-       y="552"
-       id="text3666-3">Submit Button Example Here</text>
-    <text
-       xml:space="preserve"
-       style="font-size:15px;fill:#808080;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
-       x="40.503876"
-       y="702.77618"
-       id="text3691">http://www.styletil.es</text>
-    <text
-       xml:space="preserve"
-       style="font-size:15px;fill:#808080;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
-       x="40.13522"
-       y="727.68555"
-       id="text3691-6">Template by @Semanthatoy</text>
+    <g
+      id="textureGroup">
+      <text
+         xml:space="preserve"
+         style="font-size:16.22511101px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="42"
+         y="320"
+         id="textureHeader">Textures</text>
+      <g
+        id="textures">
+        <g>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1"
+width="140"
+height="140"             x="40"
+             y="350" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+width="130"
+height="130"             x="45"
+             y="355" />
+        </g>
+        <g>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1"
+width="140"
+height="140"             x="200"
+             y="350" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+width="130"
+height="130"             x="205"
+             y="355" />
+        </g>
+        <g>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1"
+width="140"
+height="140"             x="360"
+             y="350" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+width="130"
+height="130"             x="365"
+             y="355" />
+        </g>
+      </g>
+    </g>
+    <g
+      id="buttonGroup">
+      <g>
+        <rect
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+           width="220"
+           height="44"
+           x="40"
+           y="525" />
+        <text
+           xml:space="preserve"
+           style="font-size:11px;fill:#ffffff;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           x="60"
+           y="550">This is an example of a Button</text>
+      </g>
+      <g>
+        <rect
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+           id="rect3646-9"
+           width="220"
+           height="45"
+           x="280"
+           y="525" />
+        <text
+           xml:space="preserve"
+           style="font-size:11px;fill:#ffffff;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           x="300"
+           y="550">Submit Button Example Here</text>
+      </g>
+    </g>
+    <g
+      id="footerLinks">
+      <text
+         xml:space="preserve"
+         style="font-size:15px;fill:#808080;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
+         x="40"
+         y="700">http://www.styletil.es</text>
+      <text
+         xml:space="preserve"
+         style="font-size:15px;fill:#808080;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
+         x="40"
+         y="730">Template by @Semanthatoy</text>
+      <text
+         xml:space="preserve"
+         style="font-size:15px;fill:#808080;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
+         x="250"
+         y="730">Converted to SVG by @twolfsn</text>
+    </g>
     <text
        xml:space="preserve"
        style="font-size:17px;fill:#b3b3b3;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="520"
-       y="726"
+       y="730"
        id="text3716">Be creative, don't just use this template as-is!</text>
     <text
        xml:space="preserve"
-       style="font-size:15px;fill:#808080;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter,serif;"
-       x="248.4192"
-       y="726.8714"
-       id="text3691-6-1">Converted to SVG by @twolfsn</text>
-    <text
-       xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="522"
-       y="212"
-       id="text3741">This is an Example of a Header</text>
+       x="520"
+       y="210">This is an Example of a Header</text>
   </g>
 </svg>
