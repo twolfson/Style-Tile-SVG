@@ -31,9 +31,25 @@
       <stop offset="40%" stop-color="#FFFFFF" stop-opacity="1" />
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="1" />
     </radialGradient>
+
+    <filter id="dropshadow">
+      <!-- stdDeviation is how much to blur -->
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2"/>
+        <!-- how much to offset -->
+        <feOffset dx="0" dy="0" result="offsetblur"/>
+        <feComponentTransfer>
+          <feFuncA type="linear" slope="0.5"/>
+        </feComponentTransfer>
+        <feMerge>
+          <!-- this contains the offset blurred image -->
+          <feMergeNode/>
+          <!-- this contains the element that the filter is applied to -->
+          <feMergeNode in="SourceGraphic"/>
+       </feMerge>
+    </filter>
   </defs>
 
-  <g
+   <g
      id="svgWrapper">
     <rect
        style="{{> blackStroke}}"
@@ -103,7 +119,7 @@
         id="colors">
         <g>
           <rect
-             style="{{> blackStroke}}"
+             style="{{> dropStroke}}"
              {{> smallOutside}}
              x="40"
              y="200" />
@@ -115,7 +131,7 @@
         </g>
         <g>
           <rect
-             style="{{> blackStroke}}"
+             style="{{> dropStroke}}"
              {{> smallOutside}}
              x="130"
              y="200" />
@@ -127,7 +143,7 @@
         </g>
         <g>
           <rect
-             style="{{> blackStroke}}"
+             style="{{> dropStroke}}"
              {{> smallOutside}}
              x="230"
              y="200" />
@@ -139,7 +155,7 @@
         </g>
         <g>
           <rect
-             style="{{> blackStroke}}"
+             style="{{> dropStroke}}"
              {{> smallOutside}}
              x="330"
              y="200" />
@@ -151,7 +167,7 @@
         </g>
         <g>
           <rect
-             style="{{> blackStroke}}"
+             style="{{> dropStroke}}"
              {{> smallOutside}}
              x="430"
              y="200" />
@@ -175,7 +191,7 @@
         id="textures">
         <g>
           <rect
-             style="{{> blackStroke}}"
+             style="{{> dropStroke}}"
              {{> largeOutside}}
              x="40"
              y="350" />
@@ -187,7 +203,7 @@
         </g>
         <g>
           <rect
-             style="{{> blackStroke}}"
+             style="{{> dropStroke}}"
              {{> largeOutside}}
              x="200"
              y="350" />
@@ -199,7 +215,7 @@
         </g>
         <g>
           <rect
-             style="{{> blackStroke}}"
+             style="{{> dropStroke}}"
              {{> largeOutside}}
              x="360"
              y="350" />
@@ -369,6 +385,5 @@
        style="font-size:17px;fill:#b3b3b3;{{> sansserif}}"
        x="520"
        y="730">Be creative, don't just use this template as-is!</text>
-
   </g>
 </svg>
